@@ -10,5 +10,6 @@ const Home = () => {
     </section>
   );
 };
+// console.log(1)
 
 export default Home;
